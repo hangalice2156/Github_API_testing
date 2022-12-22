@@ -1,2 +1,4 @@
 # Github_API_testing
-test Github API via playwright python
+Test Github API via playwright python
+
+Reference: https://playwright.dev/python/docs/api-testing
